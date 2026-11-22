@@ -79,7 +79,7 @@ function App() {
           <div className="hero-copy">
             <div className="eyebrow"><span className="status-dot"/> COMPUTER SCIENCE UNDERGRADUATE <span className="eyebrow-line"/></div>
             <h1>Hi, I'm<br/><span className="gradient-text">Roshitha.</span></h1>
-            <h3 className="hero-role">Java Developer · Full Stack Developer · AI/ML Enthusiast</h3>
+            <h3 className="hero-role">Problem Solving · AI/ML Enthusiast · Java Full Stack</h3>
             <p className="hero-description">I'm a Computer Science undergraduate at the Institute of Aeronautical Engineering, Hyderabad, with a CGPA of 9.02. I enjoy building practical applications using Java, web technologies and databases, and exploring how AI can solve real-world problems.</p>
             <div className="hero-actions">
               <a className="button button-primary" href="#projects">Explore my work <ArrowUpRight size={17}/></a>
